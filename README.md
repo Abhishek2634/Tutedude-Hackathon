@@ -41,13 +41,13 @@ To get a local copy up and running, follow these simple steps.
 *   MongoDB instance (local or cloud-based)
 
 ### Installation
-1.  Clone the repository:
+1.  Fork and Clone the repository:
     ```
-    git clone https://github.com/your-username/annapurna.git
+    git clone https://github.com/{your_github_username}/Tutedude-Hackathon.git
     ```
 2.  Install NPM packages:
     ```
-    cd annapurna
+    cd Tutedude-Hackathon
     npm install
     ```
 3.  Set up environment variables. Create a `.env.local` file in the root directory and add the following:
